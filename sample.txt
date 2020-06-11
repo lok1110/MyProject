@@ -6,3 +6,4 @@ git
 git status
 \n
 \r
+1
