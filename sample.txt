@@ -1,0 +1,8 @@
+git
+
+
+git
+
+git status
+\n
+\r
